@@ -45,7 +45,7 @@ If you do swapping via a temporary variable and examine the assembly instruction
 
 ### Embedded system interview question: Bubble sort
 
-If a job candidate is applying for embedded system position in Singapore, most likely than not, he is asked to write a bubble sort function without pseudo code or instructions or help! I was admittedly stumbled by this question. Why bubble sort, the slowest sort? Why not insertion sort or other sort algorithm like merge sort? Sometimes this is the only interview question on the test. I asked my tester, in his experience, how many people managed to answer that. He said almost all. Obviously, every job applicant in the embedded sector, memorise bubble sort by heart. Just like some programmers memorised XOR swap for interviews.
+If a job candidate is applying for embedded system position in Singapore, most likely than not, he is asked to write a bubble sort function without pseudo code or instructions or help! I was admittedly stumped by this question. Why bubble sort, the slowest sort? Why not insertion sort or other sort algorithm like merge sort? Sometimes this is the only interview question on the test. I asked my tester, in his experience, how many people managed to answer that. He said almost all. Obviously, every job applicant in the embedded sector, memorise bubble sort by heart. Just like some programmers memorised XOR swap for interviews.
 
 To admit I was not familiar with what embedded system programming job and reponsibility entails, this could be the only feasible sort algorithm on bare metal system where every piece of memory has to be pre-allocated and the number of stored items to be sorted remains small. So it could be a legitimate question for a embedded programmer.
 
